@@ -13,6 +13,9 @@ const mapStatesToProps = (state) => {
     }
 };
 
+
+
+
 export default connect(
     mapStatesToProps
 )(Loading);
